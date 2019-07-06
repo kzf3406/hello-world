@@ -1,4 +1,4 @@
 # hello-world
-Learning is endless, solitary
+Learning is endless, solitary.
 NO PAIN,NO GAIN!
 
